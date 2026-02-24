@@ -18,3 +18,5 @@ This repository contains my hands-on implementation of core data analysis concep
 - Aggregations
 - Broadcasting
 - Sorting
+
+*Created by [Siddhant Tongia](https://github.com/siddhant-tongia)*

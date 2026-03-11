@@ -5,14 +5,15 @@ This repository contains my hands-on implementation of core data analysis concep
 ## Topics Covered
 - NumPy
 - Pandas 
-- Matplotlib (Upcoming)
+- Matplotlib
 - Seaborn (Upcoming)
 
 ## Projects
 - IPL Team Performance Analysis using NumPy
 - Sales Data Analysis using Pandas
+- Student Performance Analysis using Matplotlib
 
-## Skills Practiced
+## NumPy
 - Array manipulation
 - Indexing & slicing
 - Boolean filtering
@@ -25,5 +26,13 @@ This repository contains my hands-on implementation of core data analysis concep
 - Series and DataFrames
 - Reading CSV and Excel files
 - Data Exploration and Exercises
+
+## Matplotlib
+- Data Visualization & EDA
+- Line Plots, Bar Charts, and Scatter Plots
+- Histograms and Box Plots
+- Heatmaps for Correlation Analysis
+- Customizing Charts (Labels, Titles, Legends, and Colors)
+- Subplots and Figure Layouts
 
 *Created by [Siddhant Tongia](https://github.com/siddhant-tongia)*
